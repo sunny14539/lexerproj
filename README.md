@@ -5,3 +5,8 @@ Compile through the terminal using the command
 and run using the command  
 `./lexer`  
 This will result in a text file called `output.txt` that lists all the tokens and lexemes.
+
+# Written By:
+Sunny To  
+Kelsey Yim  
+Eddie Huang
